@@ -1,0 +1,224 @@
+Plot Report
+-----------
+
+Report Written:     Friday, July 14, 2023
+Project Path:       C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Sith_Cosplay_Electronics.prj
+Design Path:        C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Left_Forearm_PCB_OSHPark.pcb
+Design Title:       
+Created:            7/14/2023 6:03:57 PM
+Last Saved:         7/14/2023 6:32:58 PM
+Editing Time:       28 min
+Units:              mm (precision 2)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1
+    Format 2.4 absolute in inches.
+    Zero suppression None
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Left_Forearm_PCB_OSHPark.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 10.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 10.00
+    D12    Round 70.00
+    D13    Square 60.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D14    Round 76.30
+    D15    Square 66.30
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - Top Paste Mask.gbr
+
+    Layers:
+    ------------------
+    Top Paste Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 10.00
+    D12    Round 70.00
+    D13    Square 60.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D14    Round 76.30
+    D15    Square 66.30
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - Bottom Paste Mask.gbr
+
+    Layers:
+    ---------------------
+    Bottom Paste Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - Gerber Drill Data - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+    D-Code Shape  (thou)
+    -----------------------
+    D16    Round 39.37
+    D17    Round 35.00
+
+NC Drill Output
+===============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - NC Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+
+    Tool  Size          Count   ID
+    -------------------------------------
+    T001  0.0350 inches 5     B
+    T002  0.0394 inches 16    A
+    -------------------------------------
+    Total               21
+    -------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    39    Y      100  Round A
+    35    Y      100  Round B
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D18    Round 100.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Plots\Left_Forearm_PCB_OSHPark - Board Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D19    Round 12.00
+
+End Of Report.

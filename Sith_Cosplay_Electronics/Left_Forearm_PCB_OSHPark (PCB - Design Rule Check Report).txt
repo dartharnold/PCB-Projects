@@ -1,0 +1,67 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Friday, July 14, 2023
+Project Path:       C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Sith_Cosplay_Electronics.prj
+Design Path:        C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Left_Forearm_PCB_OSHPark.pcb
+Design Title:       
+Created:            7/14/2023 6:03:57 PM
+Last Saved:         7/14/2023 6:18:44 PM
+Editing Time:       12 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.

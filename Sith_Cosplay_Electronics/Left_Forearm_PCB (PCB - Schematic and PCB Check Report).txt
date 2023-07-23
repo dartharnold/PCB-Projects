@@ -1,0 +1,20 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Friday, July 14, 2023
+Project Path:       C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Sith_Cosplay_Electronics.prj
+Design Path:        C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Left_Forearm_PCB.pcb
+Design Title:       
+Created:            7/13/2023 11:50:47 AM
+Last Saved:         7/14/2023 4:48:23 PM
+Editing Time:       548 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic and Pcb designs in project "Sith_Cosplay_Electronics"
+=====================================================================================
+
+The designs are the same.
+
+
+End Of Report.

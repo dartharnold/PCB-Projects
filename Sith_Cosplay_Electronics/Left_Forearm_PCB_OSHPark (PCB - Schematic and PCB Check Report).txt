@@ -1,0 +1,48 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Friday, July 14, 2023
+Project Path:       C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Sith_Cosplay_Electronics.prj
+Design Path:        C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Left_Forearm_PCB_OSHPark.pcb
+Design Title:       
+Created:            7/14/2023 6:03:57 PM
+Last Saved:         7/14/2023 6:08:37 PM
+Editing Time:       6 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic "C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Left_Forearm.sch" with PCB "C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Left_Forearm_PCB_OSHPark.pcb"
+============================================================================================================================================================================================================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+
+Add Component "SW1" [Pushbutton]
+Add Component "SW2" [Pushbutton]
+Add Component "SW4" [Pushbutton]
+Add Component "PL1" [CONN_SIL_5]
+Add Component "SW3" [Pushbutton]
+
+Add Net "N0036"
+Add Net "N0040"
+Add Net "N0041"
+Add Net "N0052"
+Add Net "N0053"
+
+Connect Pin SW1-1,2 to Net "N0052"
+Connect Pin SW1-3,4 to Net "N0053"
+Connect Pin SW2-1,2 to Net "N0040"
+Connect Pin SW2-3,4 to Net "N0053"
+Connect Pin SW4-1,2 to Net "N0036"
+Connect Pin SW4-3,4 to Net "N0053"
+Connect Pin PL1-1 to Net "N0053"
+Connect Pin PL1-2 to Net "N0036"
+Connect Pin PL1-3 to Net "N0041"
+Connect Pin PL1-4 to Net "N0040"
+Connect Pin PL1-5 to Net "N0052"
+Connect Pin SW3-1,2 to Net "N0041"
+Connect Pin SW3-3,4 to Net "N0053"
+
+
+End Of Report.

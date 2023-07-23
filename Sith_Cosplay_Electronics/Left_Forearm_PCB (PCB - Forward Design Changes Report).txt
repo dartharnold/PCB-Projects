@@ -1,0 +1,48 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Friday, July 14, 2023
+Project Path:       C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Sith_Cosplay_Electronics.prj
+Design Path:        C:\Users\darth\OneDrive\GitHub\dartharnold\PCB Projects\Sith_Cosplay_Electronics\Left_Forearm_PCB.pcb
+Design Title:       
+Created:            7/13/2023 11:50:47 AM
+Last Saved:         7/14/2023 11:53:29 AM
+Editing Time:       256 min
+Units:              mm (precision 2)
+
+Added net "N0036".
+Added net "N0040".
+Added net "N0041".
+Added net "N0052".
+Added net "N0053".
+
+Added component reference "SW1" of component "Pushbutton", package "DISC".
+Added component reference "SW2" of component "Pushbutton", package "DISC".
+Added component reference "SW4" of component "Pushbutton", package "DISC".
+Added component reference "PL1" of component "CONN_SIL_5", package "DSC".
+Added component reference "SW3" of component "Pushbutton", package "DISC".
+
+Connected pin "SW1.1" to net "N0052".
+Connected pin "SW1.2" to net "N0052".
+Connected pin "SW1.3" to net "N0053".
+Connected pin "SW1.4" to net "N0053".
+Connected pin "SW2.1" to net "N0040".
+Connected pin "SW2.2" to net "N0040".
+Connected pin "SW2.3" to net "N0053".
+Connected pin "SW2.4" to net "N0053".
+Connected pin "SW4.1" to net "N0036".
+Connected pin "SW4.2" to net "N0036".
+Connected pin "SW4.3" to net "N0053".
+Connected pin "SW4.4" to net "N0053".
+Connected pin "PL1.1" to net "N0053".
+Connected pin "PL1.2" to net "N0036".
+Connected pin "PL1.3" to net "N0041".
+Connected pin "PL1.4" to net "N0040".
+Connected pin "PL1.5" to net "N0052".
+Connected pin "SW3.1" to net "N0041".
+Connected pin "SW3.2" to net "N0041".
+Connected pin "SW3.3" to net "N0053".
+Connected pin "SW3.4" to net "N0053".
+
+
+End Of Report.
