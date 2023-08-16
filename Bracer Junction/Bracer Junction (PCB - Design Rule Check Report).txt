@@ -1,0 +1,88 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Saturday, August 05, 2023
+Project Path:       C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.prj
+Design Path:        C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.pcb
+Design Title:       
+Created:            7/31/2023 6:21:56 PM
+Last Saved:         8/5/2023 9:50:36 PM
+Editing Time:       797 min
+Units:              inches (precision 4)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Acid Traps                      Yes
+Component Area                  Yes
+Component Height                Yes
+Component Names                 Yes
+Copper Text In Board            Yes
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Min Solder Mask Width           Yes
+Min Solder Mask To Track        Yes
+Min Text Size                   Yes
+Min Track Width                 Yes
+Mirrored Text                   Yes
+Modified Pour Area              Yes
+Neck Length                     Yes
+Routing Areas                   Yes
+Silkscreen Overlap              Yes
+Silkscreen Overlap              Yes
+Same net via to SMD pad         Yes
+Silkscreen Board Overlap        Yes
+Silkscreen Board Overlap        Yes
+Silkscreen Board Overlap        Yes
+Silkscreen Board Overlap        Yes
+Silkscreen Board Overlap        Yes
+Undrilled through-hole pads     Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+Unpoured Areas                  Yes
+Wires                           Yes
+Vias In Pads                    Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences Yes
+Nets without Components      Yes
+Nets on No Connect pins      Yes
+Nets on No Connect pins      Yes
+
+
+
+End Of Report.

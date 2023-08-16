@@ -1,0 +1,24 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Saturday, August 05, 2023
+Project Path:       C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.prj
+Design Path:        C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.pcb
+Design Title:       
+Created:            7/31/2023 6:21:56 PM
+Last Saved:         8/5/2023 9:50:36 PM
+Editing Time:       798 min
+Units:              inches (precision 4)
+
+
+Checking integrity of Schematic "C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer_junction.sch" with PCB "C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.pcb"
+====================================================================================================================================================================================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+
+Delete Component "U$2" [ADAFRUIT_3.5MM]
+
+
+End Of Report.

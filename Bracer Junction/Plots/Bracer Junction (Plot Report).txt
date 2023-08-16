@@ -1,0 +1,207 @@
+Plot Report
+-----------
+
+Report Written:     Saturday, August 05, 2023
+Project Path:       C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.prj
+Design Path:        C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.pcb
+Design Title:       
+Created:            7/31/2023 6:21:56 PM
+Last Saved:         8/5/2023 9:50:36 PM
+Editing Time:       802 min
+Units:              inches (precision 4)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1
+    Format 3.5 absolute in inches.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 0.43
+    D12    Round 1.00
+    D13    Round 4.00
+    D14    Round 5.60
+    D15    Round 10.00
+    D16    Round 0.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D17    Round 15.00
+    D18    Round 48.00
+    D19    Square 60.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D70    Round 54.30
+    D71    Square 66.30
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D17    Round 15.00
+    D18    Round 48.00
+    D19    Square 60.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D12    Round 1.00
+    D14    Round 5.60
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D70    Round 54.30
+    D71    Square 66.30
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - Gerber Drill Data - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+    D-Code Shape  (thou)
+    -----------------------
+    D20    Round 24.00
+    D21    Round 35.00
+
+NC Drill Output
+===============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - NC Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02400 inches 7     C
+    T002  0.03500 inches 31    B
+    --------------------------------------
+    Total                38
+    --------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    35    Y      100  Round B
+    24    Y      100  Round C
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D22    Round 100.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - Board Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+
+End Of Report.

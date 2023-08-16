@@ -1,0 +1,23 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Saturday, August 05, 2023
+Project Path:       C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.prj
+Design Path:        C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.pcb
+Design Title:       
+Created:            7/31/2023 6:21:56 PM
+Last Saved:         8/5/2023 5:21:19 PM
+Editing Time:       630 min
+Units:              inches (precision 4)
+
+Renamed component reference "PWR" to "PWR".
+
+Renamed component reference "CLK" to "CLK".
+
+Renamed component reference "GPIO" to "GPIO".
+
+Renamed component reference "NEOPXL" to "NEOPXL".
+
+
+
+End Of Report.
