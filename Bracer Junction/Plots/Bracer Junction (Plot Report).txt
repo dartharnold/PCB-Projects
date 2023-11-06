@@ -1,13 +1,13 @@
 Plot Report
 -----------
 
-Report Written:     Saturday, August 05, 2023
+Report Written:     Wednesday, October 18, 2023
 Project Path:       C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.prj
 Design Path:        C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Bracer Junction.pcb
 Design Title:       
 Created:            7/31/2023 6:21:56 PM
-Last Saved:         8/5/2023 9:50:36 PM
-Editing Time:       802 min
+Last Saved:         10/18/2023 8:40:27 PM
+Editing Time:       827 min
 Units:              inches (precision 4)
 
 
@@ -24,14 +24,6 @@ Gerber Settings
     3.5 format absolute inches.
     Format commands defined in Gerber file.
     Aperture table defined in Gerber file.
-
-
-Drill Settings
-==============
-
-    Excellon Format 1
-    Format 3.5 absolute in inches.
-    Zero suppression Leading
 
 
 
@@ -147,26 +139,19 @@ C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Br
     D20    Round 24.00
     D21    Round 35.00
 
-NC Drill Output
-===============
+Gerber Output
+=============
 
-C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - NC Drill Data - [Through Hole].drl
+C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction\Plots\Bracer Junction - NC Drill Data - [Through Hole].gbr
 
-    Output:
-    -----------------------------
-    Plated Round Drill Holes
-    Unplated Round Drill Holes
-    Plated Slots
-    Unplated Slots
+    Layers:
+    ------------------
+    [Through Hole]
 
-    Tool  Size           Count   ID
-    --------------------------------------
-    T001  0.02400 inches 7     C
-    T002  0.03500 inches 31    B
-    --------------------------------------
-    Total                38
-    --------------------------------------
-
+    D-Code Shape  (thou)
+    -----------------------
+    D20    Round 24.00
+    D21    Round 35.00
 
 Gerber Output
 =============

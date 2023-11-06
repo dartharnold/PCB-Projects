@@ -1,0 +1,20 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Thursday, October 19, 2023
+Project Path:       C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction v2\Bracer Junction_v2.prj
+Design Path:        C:\Users\darth\OneDrive\GitHub\dartharnold\PCB-Projects\Bracer Junction v2\Bracer Junction_v2.pcb
+Design Title:       
+Created:            7/31/2023 6:21:56 PM
+Last Saved:         10/19/2023 8:56:52 AM
+Editing Time:       861 min
+Units:              inches (precision 4)
+
+
+Checking integrity of Schematic and Pcb designs in project "Bracer Junction_v2"
+===============================================================================
+
+The designs are the same.
+
+
+End Of Report.
