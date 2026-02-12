@@ -1,78 +1,26 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report Written:     20:49 Tuesday, February 10, 2026
-Design Path:        C:\Users\darth\OneDrive\Maker Space\PCB\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.pcb
+Report Written:     21:24 Wednesday, February 11, 2026
+Project Path:       C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.prj
+Design Path:        C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.pcb
 Design Title:       
 Created:            2/10/2026 5:25:51 PM
-Last Saved:         2/10/2026 8:47:53 PM
-Editing Time:       203 min
+Last Saved:         2/11/2026 9:23:53 PM
+Editing Time:       252 min
 Units:              mm (precision 1)
 
 
-Checking integrity of Schematic "C:\Users\darth\OneDrive\Maker Space\PCB\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.sch" with PCB "C:\Users\darth\OneDrive\Maker Space\PCB\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.pcb"
-========================================================================================================================================================================================================================================
+Checking integrity of Schematic "C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.sch" with PCB "C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.pcb"
+==========================================================================================================================================================================================================================================================
 
 The PCB and Schematic designs do not match.
 To bring them into line, you will need to make the following changes to the PCB design:
 
 
-Add Component "V1" [Power Supply]
-Add Component "IC1" [3800]
-Add Component "IC2" [5849]
-Add Component "IC3" [5849]
-Add Component "IC4" [5849]
-Add Component "IC6" [5849]
-Add Component "IC7" [5849]
-Add Component "IC8" [5849]
-
-Add Net "N0019"
-Add Net "N0022"
-Add Net "N0023"
-Add Net "N0024"
-Add Net "N0025"
-Add Net "N0026"
-Add Net "N0027"
-Add Net "N0028"
-Add Net "N0029"
-Add Net "N0030"
-Add Net "N0031"
-Add Net "N0032"
-Add Net "N0033"
-Add Net "N0034"
-Add Net "N0036"
-Add Net "N0037"
-Add Net "N0038"
-Add Net "N0039"
-Add Net "N0042"
-Add Net "N0043"
-
-Connect Pin IC1-2 to Net "N0019"
-Connect Pin IC1-25 to Net "N0042"
-Connect Pin IC1-26 to Net "N0043"
-Connect Pin IC1-32 to Net "N0034"
-Connect Pin IC2-1 to Net "N0030"
-Connect Pin IC2-2 to Net "N0037"
-Connect Pin IC2-3 to Net "N0024"
-Connect Pin IC3-1 to Net "N0031"
-Connect Pin IC3-2 to Net "N0043"
-Connect Pin IC3-3 to Net "N0027"
-Connect Pin IC3-4 to Net "N0038"
-Connect Pin IC4-1 to Net "N0032"
-Connect Pin IC4-2 to Net "N0038"
-Connect Pin IC4-3 to Net "N0026"
-Connect Pin IC4-4 to Net "N0039"
-Connect Pin IC6-1 to Net "N0033"
-Connect Pin IC6-2 to Net "N0039"
-Connect Pin IC6-3 to Net "N0025"
-Connect Pin IC7-1 to Net "N0029"
-Connect Pin IC7-2 to Net "N0036"
-Connect Pin IC7-3 to Net "N0023"
-Connect Pin IC7-4 to Net "N0037"
-Connect Pin IC8-1 to Net "N0028"
-Connect Pin IC8-2 to Net "N0042"
-Connect Pin IC8-3 to Net "N0022"
-Connect Pin IC8-4 to Net "N0036"
+Add Component "PWR" [PWR]
+Add Component "NEOPX_IO" [PXL_IO (7,9)]
+Add Component "MC_PRW" [PWR]
 
 
 End Of Report.

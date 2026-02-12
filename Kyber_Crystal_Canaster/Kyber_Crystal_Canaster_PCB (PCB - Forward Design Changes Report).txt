@@ -1,70 +1,18 @@
 Forward Design Changes Report
 -----------------------------
 
-Report Written:     20:49 Tuesday, February 10, 2026
-Design Path:        C:\Users\darth\OneDrive\Maker Space\PCB\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.pcb
+Report Written:     21:24 Wednesday, February 11, 2026
+Project Path:       C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.prj
+Design Path:        C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.pcb
 Design Title:       
 Created:            2/10/2026 5:25:51 PM
-Last Saved:         2/10/2026 8:47:53 PM
-Editing Time:       203 min
+Last Saved:         2/11/2026 9:23:53 PM
+Editing Time:       253 min
 Units:              mm (precision 1)
 
-Added net "N0019".
-Added net "N0022".
-Added net "N0023".
-Added net "N0024".
-Added net "N0025".
-Added net "N0026".
-Added net "N0027".
-Added net "N0028".
-Added net "N0029".
-Added net "N0030".
-Added net "N0031".
-Added net "N0032".
-Added net "N0033".
-Added net "N0034".
-Added net "N0036".
-Added net "N0037".
-Added net "N0038".
-Added net "N0039".
-Added net "N0042".
-Added net "N0043".
-
-Error: Unable to add component reference "V1" of component "Power Supply", package "SPICE" because No PCB information for Component "Power Supply"..
-Added component reference "IC1" of component "3800", package "3800".
-Added component reference "IC2" of component "5849", package "5849".
-Added component reference "IC3" of component "5849", package "5849".
-Added component reference "IC4" of component "5849", package "5849".
-Added component reference "IC6" of component "5849", package "5849".
-Added component reference "IC7" of component "5849", package "5849".
-Added component reference "IC8" of component "5849", package "5849".
-
-Connected pin "IC1.2" to net "N0019".
-Connected pin "IC1.25" to net "N0042".
-Connected pin "IC1.26" to net "N0043".
-Connected pin "IC1.32" to net "N0034".
-Connected pin "IC2.1" to net "N0030".
-Connected pin "IC2.2" to net "N0037".
-Connected pin "IC2.3" to net "N0024".
-Connected pin "IC3.1" to net "N0031".
-Connected pin "IC3.2" to net "N0043".
-Connected pin "IC3.3" to net "N0027".
-Connected pin "IC3.4" to net "N0038".
-Connected pin "IC4.1" to net "N0032".
-Connected pin "IC4.2" to net "N0038".
-Connected pin "IC4.3" to net "N0026".
-Connected pin "IC4.4" to net "N0039".
-Connected pin "IC6.1" to net "N0033".
-Connected pin "IC6.2" to net "N0039".
-Connected pin "IC6.3" to net "N0025".
-Connected pin "IC7.1" to net "N0029".
-Connected pin "IC7.2" to net "N0036".
-Connected pin "IC7.3" to net "N0023".
-Connected pin "IC7.4" to net "N0037".
-Connected pin "IC8.1" to net "N0028".
-Connected pin "IC8.2" to net "N0042".
-Connected pin "IC8.3" to net "N0022".
-Connected pin "IC8.4" to net "N0036".
+Added component reference "PWR" of component "PWR", package "DSC".
+Added component reference "NEOPX_IO" of component "PXL_IO (7,9)", package "DSC".
+Added component reference "MC_PRW" of component "PWR", package "DSC".
 
 
 End Of Report.
