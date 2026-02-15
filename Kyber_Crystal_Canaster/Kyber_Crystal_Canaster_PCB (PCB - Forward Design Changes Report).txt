@@ -1,18 +1,81 @@
 Forward Design Changes Report
 -----------------------------
 
-Report Written:     21:24 Wednesday, February 11, 2026
+Report Written:     17:51 Saturday, February 14, 2026
 Project Path:       C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.prj
 Design Path:        C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.pcb
 Design Title:       
 Created:            2/10/2026 5:25:51 PM
-Last Saved:         2/11/2026 9:23:53 PM
-Editing Time:       253 min
+Last Saved:         2/14/2026 5:50:51 PM
+Editing Time:       362 min
 Units:              mm (precision 1)
 
+Added net "N0030".
+Added net "N0031".
+Added net "N0032".
+Added net "N0033".
+Added net "N0034".
+Added net "N0036".
+Added net "N0037".
+Added net "N0038".
+Added net "N0039".
+Added net "N0041".
+Added net "N0044".
+Added net "N0045".
+Added net "N0046".
+Added net "N0047".
+
+Added component reference "PXL_IO" of component "PXL_IO", package "DSC".
 Added component reference "PWR" of component "PWR", package "DSC".
-Added component reference "NEOPX_IO" of component "PXL_IO (7,9)", package "DSC".
-Added component reference "MC_PRW" of component "PWR", package "DSC".
+Added component reference "MC_PWR" of component "PWR", package "DSC".
+Added component reference "NP_0-0" of component "NEOPXL", package "DSC".
+Added component reference "NP_0-1" of component "NEOPXL", package "DSC".
+Added component reference "NP_0-2" of component "NEOPXL", package "DSC".
+Added component reference "NP_1-0" of component "NEOPXL", package "DSC".
+Added component reference "NP_1-2" of component "NEOPXL", package "DSC".
+Added component reference "PWR_S" of component "Micro_Switch", package "463092370402".
+Added component reference "NP_1-1" of component "NEOPXL", package "DSC".
+
+Connected pin "PXL_IO.1" to net "GPIO_1".
+Connected pin "PXL_IO.2" to net "GPIO_2".
+Connected pin "PWR.1" to net "5V_PWR_IN".
+Connected pin "PWR.2" to net "GND_IN".
+Connected pin "MC_PWR.1" to net "5V_PWR_OUT".
+Connected pin "MC_PWR.2" to net "GND_IN".
+Connected pin "NP_0-0.1" to net "5V_PWR_OUT".
+Connected pin "NP_0-0.2" to net "GPIO_1".
+Connected pin "NP_0-0.3" to net "GND_IN".
+Connected pin "NP_0-0.4" to net "N0034".
+Connected pin "NP_0-0.5" to net "N0044".
+Connected pin "NP_0-0.6" to net "N0036".
+Connected pin "NP_0-1.1" to net "N0030".
+Connected pin "NP_0-1.2" to net "N0044".
+Connected pin "NP_0-1.3" to net "N0037".
+Connected pin "NP_0-1.4" to net "N0031".
+Connected pin "NP_0-1.5" to net "N0045".
+Connected pin "NP_0-1.6" to net "N0038".
+Connected pin "NP_0-2.1" to net "N0032".
+Connected pin "NP_0-2.2" to net "N0045".
+Connected pin "NP_0-2.3" to net "N0039".
+Connected pin "NP_0-2.4" to net "N0033".
+Connected pin "NP_0-2.6" to net "N0041".
+Connected pin "NP_1-0.1" to net "N0034".
+Connected pin "NP_1-0.2" to net "GPIO_2".
+Connected pin "NP_1-0.3" to net "N0036".
+Connected pin "NP_1-0.4" to net "N0030".
+Connected pin "NP_1-0.5" to net "N0046".
+Connected pin "NP_1-0.6" to net "N0037".
+Connected pin "NP_1-2.1" to net "N0033".
+Connected pin "NP_1-2.2" to net "N0047".
+Connected pin "NP_1-2.3" to net "N0041".
+Connected pin "PWR_S.1" to net "5V_PWR_IN".
+Connected pin "PWR_S.3" to net "5V_PWR_OUT".
+Connected pin "NP_1-1.1" to net "N0031".
+Connected pin "NP_1-1.2" to net "N0046".
+Connected pin "NP_1-1.3" to net "N0038".
+Connected pin "NP_1-1.4" to net "N0032".
+Connected pin "NP_1-1.5" to net "N0047".
+Connected pin "NP_1-1.6" to net "N0039".
 
 
 End Of Report.

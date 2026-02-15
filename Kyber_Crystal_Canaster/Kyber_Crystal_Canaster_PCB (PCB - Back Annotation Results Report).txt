@@ -1,0 +1,23 @@
+Back Annotation Results Report
+------------------------------
+
+Report Written:     16:41 Saturday, February 14, 2026
+Project Path:       C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.prj
+Design Path:        C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.pcb
+Design Title:       
+Created:            2/10/2026 5:25:51 PM
+Last Saved:         2/14/2026 4:39:57 PM
+Editing Time:       292 min
+Units:              mm (precision 1)
+
+Back Annotate renames from the PCB design to all Schematic designs in project "Kyber_Crystal_Canaster_PCB".
+
+Renamed Component from "NeoPXL1" to "NP_0-0" in design "Kyber_Crystal_Canaster_PCB.sch".
+Renamed Component from "NeoPXL4" to "NP_1-0" in design "Kyber_Crystal_Canaster_PCB.sch".
+Renamed Component from "NeoPXL2" to "NP_0-1" in design "Kyber_Crystal_Canaster_PCB.sch".
+Renamed Component from "NeoPXL5" to "NP_1-1" in design "Kyber_Crystal_Canaster_PCB.sch".
+Renamed Component from "NeoPXL3" to "NP_0-2" in design "Kyber_Crystal_Canaster_PCB.sch".
+Renamed Component from "NeoPXL6" to "NP_1-2" in design "Kyber_Crystal_Canaster_PCB.sch".
+
+
+End Of Report.

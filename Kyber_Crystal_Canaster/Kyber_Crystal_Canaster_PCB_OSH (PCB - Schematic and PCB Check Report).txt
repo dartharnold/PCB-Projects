@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     09:48 Sunday, February 15, 2026
+Project Path:       C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.prj
+Design Path:        C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB_OSH.pcb
+Design Title:       
+Created:            2/14/2026 9:01:21 PM
+Last Saved:         2/15/2026 9:44:39 AM
+Editing Time:       186 min
+Units:              inches (precision 4)
+
+
+Checking integrity of Schematic "C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB_OSH.sch" with PCB "C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB_OSH.pcb"
+==================================================================================================================================================================================================================================================================
+
+
+End Of Report.

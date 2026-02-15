@@ -1,0 +1,222 @@
+Plot Report
+-----------
+
+Report Written:     13:25 Sunday, February 15, 2026
+Project Path:       C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.prj
+Design Path:        C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB_OSH.pcb
+Design Title:       
+Created:            2/14/2026 9:01:21 PM
+Last Saved:         2/15/2026 1:24:31 PM
+Editing Time:       403 min
+Units:              inches (precision 4)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+Gerber Format: Custom Settings
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.4 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1
+    Format 2.4 absolute in inches.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB_OSH.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Plots\Kyber_Crystal_Canaster_PCB_OSH - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 1.00
+    D11    Round 10.00
+    D12    Round 5.00
+    D13    Round 7.87
+    D14    Round 2.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Plots\Kyber_Crystal_Canaster_PCB_OSH - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------
+    D11    Round 10.00
+    D15    Round 15.00
+    D16    Round 48.00
+    D17    Oval 25.00 X 50.00  Rotation 90
+    D18    Oval 25.00 X 50.00
+    D19    Round 70.87
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Plots\Kyber_Crystal_Canaster_PCB_OSH - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------
+    D70    Round 54.30
+    D71    Round 66.30
+    D20    Oval 31.30 X 56.30  Rotation 90
+    D21    Oval 31.30 X 56.30
+    D22    Round 77.17
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Plots\Kyber_Crystal_Canaster_PCB_OSH - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------
+    D15    Round 15.00
+    D16    Round 48.00
+    D17    Oval 25.00 X 50.00  Rotation 90
+    D18    Oval 25.00 X 50.00
+    D19    Round 70.87
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Plots\Kyber_Crystal_Canaster_PCB_OSH - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 1.00
+    D12    Round 5.00
+    D14    Round 2.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Plots\Kyber_Crystal_Canaster_PCB_OSH - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------
+    D70    Round 54.30
+    D71    Round 66.30
+    D20    Oval 31.30 X 56.30  Rotation 90
+    D21    Oval 31.30 X 56.30
+    D22    Round 77.17
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Plots\Kyber_Crystal_Canaster_PCB_OSH - Bottom Documentation.gbr
+
+    Layers:
+    ------------------------
+    Bottom Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D23    Round 3.94
+
+NC Drill Output
+===============
+
+C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Plots\Kyber_Crystal_Canaster_PCB_OSH - NC Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+
+    Tool  Size          Count   ID  (Plated/Unplated)
+    ----------------------------------------------------------
+    T001  0.0050 inches 42    F
+    T002  0.0240 inches 2     A
+    T003  0.0472 inches 3     E
+    T004  0.4724 inches 6     /B
+    T005  0.5118 inches 1     /C
+    ----------------------------------------------------------
+    Total               54
+    ----------------------------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Plots\Kyber_Crystal_Canaster_PCB_OSH - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    24    Y      100  Round A
+    472          100  Round B
+    512          100  Round C
+    47    Y      100  Round E
+    5     Y      100  Round F
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 5.00
+    D24    Round 100.00
+
+Gerber Output
+=============
+
+C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Plots\Kyber_Crystal_Canaster_PCB_OSH - Board Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 5.00
+
+End Of Report.

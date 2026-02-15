@@ -1,0 +1,92 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     13:24 Sunday, February 15, 2026
+Project Path:       C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.prj
+Design Path:        C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB_OSH.pcb
+Design Title:       
+Created:            2/14/2026 9:01:21 PM
+Last Saved:         2/15/2026 1:20:20 PM
+Editing Time:       403 min
+Units:              inches (precision 4)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Acid Traps                      Yes
+Component Area                  Yes
+Component Height                Yes
+Component Names                 Yes
+Copper Text In Board            Yes
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Min Solder Mask Width           Yes
+Min Solder Mask To Track        Yes
+Min Text Size                   Yes
+Min Track Width                 Yes
+Max Stub Length                 Yes
+Mirrored Text                   Yes
+Modified Pour Area              Yes
+Neck Length                     Yes
+Routing Areas                   Yes
+Silkscreen Overlap              Yes
+Silkscreen Overlap              Yes
+Same net via to SMD pad         Yes
+Silkscreen Board Overlap        Yes
+Silkscreen Board Overlap        Yes
+Silkscreen Board Overlap        Yes
+Silkscreen Board Overlap        Yes
+Silkscreen Board Overlap        Yes
+Undrilled through-hole pads     Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+Unplated Pads                   No
+Unpoured Areas                  Yes
+Wires                           Yes
+Vias In Pads                    Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences Yes
+Nets without Components      Yes
+Nets on No Connect pins      Yes
+Single Pin Net               Yes
+Max Vias on Net              Yes
+Pcb-only Nets                Yes
+
+
+
+End Of Report.

@@ -1,26 +1,20 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report Written:     21:24 Wednesday, February 11, 2026
+Report Written:     20:45 Saturday, February 14, 2026
 Project Path:       C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.prj
 Design Path:        C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.pcb
 Design Title:       
 Created:            2/10/2026 5:25:51 PM
-Last Saved:         2/11/2026 9:23:53 PM
-Editing Time:       252 min
+Last Saved:         2/14/2026 8:40:42 PM
+Editing Time:       533 min
 Units:              mm (precision 1)
 
 
 Checking integrity of Schematic "C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.sch" with PCB "C:\Users\darth\OneDrive\Maker Space\PCB-Projects\Kyber_Crystal_Canaster\Kyber_Crystal_Canaster_PCB.pcb"
 ==========================================================================================================================================================================================================================================================
 
-The PCB and Schematic designs do not match.
-To bring them into line, you will need to make the following changes to the PCB design:
-
-
-Add Component "PWR" [PWR]
-Add Component "NEOPX_IO" [PXL_IO (7,9)]
-Add Component "MC_PRW" [PWR]
+The designs are the same.
 
 
 End Of Report.
